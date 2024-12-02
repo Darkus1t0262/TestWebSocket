@@ -26,3 +26,5 @@ To test the server, use the Simple WebSocket Client extension in Google Chrome:
 1. Install the extension from the Chrome Web Store.
 2. Connect to the WebSocket server by entering ws://localhost:8080 on the screen
 of the extension you could see it on the screenshot below.
+![image](https://github.com/user-attachments/assets/39db271e-fcb5-484d-940e-ad1b48c0aa09)
+
